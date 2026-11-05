@@ -4,4 +4,4 @@ Thay đổi: sắp xếp lại kho chứa, thêm README có đường dẫn demo
 - Chưa kiểm tra: hiển thị thực tế trên iPhone.
 
 ## V8 05/11/2026
-Đưa website lên GitHub Pages
+Đưa website lên GitHub Pages.
